@@ -1,0 +1,25 @@
+{
+  "name": "cor1-official-website",
+  "version": "0.0.1",
+  "description": "Fighting coronavirus as one.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COR-1/official-website.git"
+  },
+  "keywords": [
+    "community"
+  ],
+  "author": "raghav-misra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/COR-1/official-website/issues"
+  },
+  "homepage": "https://github.com/COR-1/official-website#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
