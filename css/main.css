@@ -3,3 +3,24 @@
     position: relative;
     bottom: 10px;
 }
+
+.flex-1 {
+    flex: 1;
+}
+
+html {
+    background-image: url("../assets/back.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+body {
+    background: none;
+}
+
+header#header {
+    background-color: #1a1a1ad5 !important;
+}
