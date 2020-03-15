@@ -1,13 +1,11 @@
+/* Logo */
 #logo {
     height: 4.5rem;
     position: relative;
     bottom: 10px;
 }
 
-.flex-1 {
-    flex: 1;
-}
-
+/* Background image/overrides */
 html {
     background-image: url("../assets/back.jpg");
     background-position: left;
@@ -21,6 +19,29 @@ body {
     background: none;
 }
 
-header#header {
+/* Card Background */
+.bg-translucent {
     background-color: #1a1a1ad5 !important;
+}
+
+.bg-translucent * {
+    color: white;
+}
+
+/* Card Spacer */
+hr[spacer] {
+    display: block;
+    border: none;
+    background: none;
+    padding: 0; margin: 0;
+    width: 100%;
+    height: 50px;
+}
+
+/* hr overrides */
+hr { border-color: white; }
+
+/* Utilities */
+.flex-1 {
+    flex: 1;
 }
