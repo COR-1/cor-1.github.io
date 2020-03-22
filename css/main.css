@@ -26,7 +26,8 @@ body {
 }
 
 .bg-translucent * {
-    color: rgb(143, 145, 143);
+    color: rgb(140, 77, 182);
+    /* added purple */
 }
 
 /* Card Spacer */
