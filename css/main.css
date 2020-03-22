@@ -22,11 +22,11 @@ body {
 /* Card Background */
 .bg-translucent {
     background-color: #1a1a1a !important;
-    background-color: #1a1a1ad5 !important;
+    background-color: #1a1a1ad3 !important;
 }
 
 .bg-translucent * {
-    color: white;
+    color: blueviolet;
 }
 
 /* Card Spacer */
