@@ -80,7 +80,9 @@ input:hover,
   opacity: 1;
 }
 
-/* add appropriate colors to fb, twitter and google buttons */
+/* nimesh disabled other signups */
+
+/* add appropriate colors to fb, twitter and google buttons 
 .fb {
   background-color: #3B5998;
   color: white;
@@ -96,7 +98,9 @@ input:hover,
   color: white;
 }
 
-/* style the submit button */
+style the submit button */
+
+
 input[type=submit] {
   background-color: #4CAF50;
   color: white;
